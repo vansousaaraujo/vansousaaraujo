@@ -1,7 +1,7 @@
 ## Oiee! Meu nome é Vanessa, mas pode me chamar de Van!  
 
 - 🖥️ Atualmente trabalho como Assistente de Help Desk
-- 🎓 Estudando HTML, CSS e JavaScript.
+- 🎓 Estudando HTML, CSS, JavaScript e Node.Js
 - ♀️ Pronomes: (ela/dela)
 
  <div>
