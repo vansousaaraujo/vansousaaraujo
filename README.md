@@ -1,8 +1,32 @@
 ## Oiee! Meu nome é Vanessa, mas pode me chamar de Van!  
 
-- 🖥️ Atualmente trabalho como Assistente de Help Desk
-- 🎓 Estudando HTML, CSS, JavaScript e Node.Js
-- ♀️ Pronomes: (ela/dela)
+<h4 align="left">Quer saber mais sobre mim? Verifique o código JavaScript abaixo:</h3>
+
+```js
+export creativeArtist = {
+  name: 'Vanessa de Sousa Araujo',
+  from: 'Uberlândia, MG, Brasil',
+  profession: [
+    'Assistente de Help Desk',
+    'Desenvolvedora Front-End em formação'
+  ],
+  skills: {
+    stack: [
+      'HTML',
+      'CSS',
+      'Javascript',
+      'NodeJs',
+    ],
+    languages: ['Português', 'Inglês', 'Francês'],
+  }
+  lovesCoffee: true,
+  hobbies: ['Filmes', 'Música', 'Jogos']
+  learnMore (skill) {
+    this.skills.stack.push(skill)
+  }
+}
+```
+
 
  <div>
   <a href="https://github.com/vansousaaraujo">
@@ -14,8 +38,6 @@
   <img align="center" alt="Van-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Van-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Van-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-
-  <img align="right" alt="Van-GIF" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
   ##
