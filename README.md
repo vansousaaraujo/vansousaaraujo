@@ -8,7 +8,7 @@ export creativeArtist = {
   from: 'Uberlândia, MG, Brasil',
   profession: [
     'Assistente de Help Desk',
-    'Desenvolvedora Front-End em formação'
+    'Desenvolvedora em formação'
   ],
   skills: {
     stack: [
