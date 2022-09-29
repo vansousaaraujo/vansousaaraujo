@@ -7,15 +7,15 @@ export creativeArtist = {
   name: 'Vanessa de Sousa Araujo',
   from: 'Uberlândia, MG, Brasil',
   profession: [
-    'Assistente de Help Desk',
-    'Desenvolvedora em formação'
+    'Desenvolvedora Jr',
+    '...em formação'
   ],
   skills: {
     stack: [
       'HTML',
       'CSS',
       'Javascript',
-      'NodeJs',
+      'Python',
     ],
     languages: ['Português', 'Inglês', 'Francês'],
   }
